@@ -63,3 +63,6 @@ examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 # Visual Studio files and folder
 *.sln
 *.vcxproj*
+
+bin/
+bin-int/
