@@ -4,7 +4,7 @@ project(imgui LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-option(IMGUI_ENABLE_SDL3  "Enable SDL3 platform backend" ON)
+option(IMGUI_ENABLE_SDL3  "Enable SDL3 platform backend" ON) 
 option(IMGUI_ENABLE_WIN32 "Enable Win32 platform backend" OFF)
 option(IMGUI_ENABLE_DX12  "Enable DirectX 12 backend" OFF)
 
